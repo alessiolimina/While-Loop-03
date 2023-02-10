@@ -12,9 +12,9 @@ public class Start {
 
         /**
          * Declaring the variables
-         * @i is the value from we start to iterate
-         * @firstNumber is the first number
-         * @secondNumber is the secondNumber
+         * i is the value from we start to iterate
+         * firstNumber is the first number
+         * secondNumber is the secondNumber
          */
 
         int i = 0;
@@ -22,9 +22,9 @@ public class Start {
         int secondNumber = 1;
 
         /**
-         * Creating a While Loop
+         * Creating a WHILE Loop
          * Printing the firstNumber
-         * @nextNumber is a new variable, that is the sum between firstNumber and secondNumber
+         * nextNumber is a new variable, that is the sum between firstNumber and secondNumber
          * Assigning to firstNumber the value of secondNumber
          * Assigning to secondNumber the value of nextNumber
          * Repeat until the end of loop
